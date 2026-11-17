@@ -1,8 +1,8 @@
-# montgomery-311-etl
+# montgomery-county-311-etl
 End-to-end ETL pipeline for Montgomery County 311 service requests using Databricks and Medallion Architecture. 
 Transform Montgomery County, Maryland's 311 service request data into reliable datasets that support operational analysis and help identify opportunities to improve public service delivery.
 
-#Analysis Goals
+# Analysis Goals
 1. Service Demand: Analyze the total number of service requests and identify the most frequently requested services.
 
 2. Department Workload: Determine which Montgomery County departments receive the highest volume of service requests.
